@@ -1,0 +1,20 @@
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\csc.exe
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\vbc.exe
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\Authentication with database.dll.config
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\Authentication with database.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\Authentication with database.pdb
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\obj\Debug\Authentication with database.csprojResolveAssemblyReference.cache
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\obj\Debug\Authentication with database.dll
+C:\Users\Enda\Desktop\Authentication with database\Authentication with database\obj\Debug\Authentication with database.pdb
